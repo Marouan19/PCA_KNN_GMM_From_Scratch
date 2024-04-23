@@ -18,7 +18,7 @@ This repository contains the implementation of three machine learning algorithms
 
 
 ```bash
-git clone https://github.com/Marouan19/SMA_Project
+git clone https://github.com/Marouan19/PCA_KNN_GMM_From_Scratch
 ```
 
 2. Ensure that you have Jupyter Notebook installed on your system.
